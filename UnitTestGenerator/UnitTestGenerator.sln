@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreTestCodeAnalyserConsoleHost", "PreTestCodeAnalyserConsoleHost\PreTestCodeAnalyserConsoleHost.csproj", "{A7422B9E-76D4-4401-BC9E-6FE2A9B022D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreTestCodeAnalyser", "PreTestCodeAnalyser\PreTestCodeAnalyser.csproj", "{279B3264-0797-4C05-BA71-E9D6893A5C0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A7422B9E-76D4-4401-BC9E-6FE2A9B022D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7422B9E-76D4-4401-BC9E-6FE2A9B022D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7422B9E-76D4-4401-BC9E-6FE2A9B022D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279B3264-0797-4C05-BA71-E9D6893A5C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279B3264-0797-4C05-BA71-E9D6893A5C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279B3264-0797-4C05-BA71-E9D6893A5C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279B3264-0797-4C05-BA71-E9D6893A5C0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
