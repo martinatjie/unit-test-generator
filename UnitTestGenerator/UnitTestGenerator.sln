@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreTestCodeAnalyserConsoleH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreTestCodeAnalyser", "PreTestCodeAnalyser\PreTestCodeAnalyser.csproj", "{279B3264-0797-4C05-BA71-E9D6893A5C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeneratorUnitTests", "UnitTestGeneratorUnitTests\UnitTestGeneratorUnitTests.csproj", "{325DEB38-FFCE-4094-955F-509BA8DE39EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{279B3264-0797-4C05-BA71-E9D6893A5C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279B3264-0797-4C05-BA71-E9D6893A5C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279B3264-0797-4C05-BA71-E9D6893A5C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325DEB38-FFCE-4094-955F-509BA8DE39EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325DEB38-FFCE-4094-955F-509BA8DE39EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325DEB38-FFCE-4094-955F-509BA8DE39EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325DEB38-FFCE-4094-955F-509BA8DE39EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
